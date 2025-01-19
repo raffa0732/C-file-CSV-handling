@@ -1,5 +1,5 @@
 # C-file-CSV-handling
-The program is developed to manage a register of students, including their names, subjects, grades and other ddata.
+The program is developed to manage a register of students, including their names, subjects, grades and other data.
 Has functionalities like:
 	- Inserting data and writing data on CSV file
 	- Reading data from CSV file
